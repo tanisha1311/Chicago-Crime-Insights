@@ -29,13 +29,13 @@ The dashboard is designed for multiple stakeholders, including:
 - Residents: To stay informed about local crime activity and trends.
 
 # Data Source
-File 01 (Chicago Crime Base Dataset) - The project utilized crime data from the Chicago
+- File 01 (Chicago Crime Base Dataset) - The project utilized crime data from the Chicago
 Data Portal, specifically the dataset titled Crimes - 2001 to Present. 
 The dataset was filtered to include crimes that occurred after December 31, 2014, for a
 focused analysis of recent trends.
-File 02 (Community area name and number) - This file contains a list of Chicago
+- File 02 (Community area name and number) - This file contains a list of Chicago
 Community Areas along with their respective identifiers.
-File 03 (Community area and zip code equivalency) - This is an Excel file that serves as a
+- File 03 (Community area and zip code equivalency) - This is an Excel file that serves as a
 mapping reference between Chicago community areas and their corresponding ZIP codes.
 
 # Project Workflow
