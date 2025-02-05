@@ -9,8 +9,6 @@ aimed to address critical questions regarding crime trends, hotspots, and arrest
 aiding data-driven decision-making.
 The project goals included:
 - Identifying crime hotspots.
-- Identifying crime hotspots.
-- Analyzing temporal patterns, including peak hours and seasonal variations.
 - Analyzing temporal patterns, including peak hours and seasonal variations.
 - Assessing arrest likelihoods and severe crime distribution.
 
@@ -22,7 +20,6 @@ challenges by creating an intuitive and interactive dashboard, enabling users to
 crime trends, hotspots, and arrest patterns.
 Intended Audience
 The dashboard is designed for multiple stakeholders, including:
-- Law Enforcement Agencies: To identify crime hotspots and allocate resources efficiently.
 - Law Enforcement Agencies: To identify crime hotspots and allocate resources efficiently.
 - City Officials and Policymakers: To assess trends and devise crime prevention strategies.
 - Community Organizations: To create awareness and support crime-reduction initiatives.
